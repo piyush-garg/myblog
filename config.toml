@@ -16,7 +16,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  commentoEnable = true
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   twitter = "https://twitter.com/pgarg_"

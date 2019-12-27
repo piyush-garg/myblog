@@ -151,7 +151,7 @@ The above process to see the logs and fetch the details seems very cumbersome, a
 
 You can do the same for TaskRun too.
 
-### Conclusion
+### Next Steps
 
 I hope you find this post helpful and useful. In my next post, I will prepare an exercise to debug pipeline and demonstrate it. Stay tuned!
 
