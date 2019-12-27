@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Personal website for posting some technical blogs"
   twitter = "https://twitter.com/pgarg_"
   github = "https://github.com/piyush-garg"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
