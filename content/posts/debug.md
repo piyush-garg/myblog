@@ -6,13 +6,11 @@ draft: false
 ---
 ## Tekton Pipeline
 
-### About
-
 **Tekton Pipelines** is a cloud-native CI/CD solutions. It provides Kubernetes style resources to define CI/CD pipelines and is designed to meet the CI/CD needs of both microservices and monolithic applications. If you want to know more about Tekton Pipelines, you can go through this [blog](https://medium.com/@nikhilthomas1/cloud-native-cicd-on-openshift-with-openshift-pipelines-tektoncd-pipelines-e944cd10341a7)
 
 In this blog, we will cover some basic Tekton Pipelines concepts and how to debug a pipeline in case of failure.
 
-### Pipeline Concepts
+### Tekton Concepts
 
 **Tekton Pipelines** leverages Custom Resource Definition (CRD) feature provided by Kubernetes to add CI/CD functionality. It uses Custom Resources as building blocks to define a CI/CD pipeline. This lets users interact with these custom resources just like any other Kubernetes resource.
 
